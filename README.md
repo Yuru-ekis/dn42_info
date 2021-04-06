@@ -1,7 +1,7 @@
 # Peering information for AS4242422021
 
 
-|Location: |Los Angelos| 
+|Location: |Los Santos| 
 |-----|----------|
 |Hostname:| lax-node.ykis.moe|
 |DN42 IPv6:| fdd0:448d:1447:1::|
